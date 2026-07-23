@@ -1,0 +1,5 @@
+id,path,dur,start,region,win_min,sim,speaker,is_main,sesion,blk
+frag_0049,tts_dataset/fragments/frag_0049.wav,9.9,554.1,101,0.19195914268493652,0.8802154660224915,0,True,A,0
+frag_0082,tts_dataset/fragments/frag_0082.wav,9.28,814.9,150,0.22359627485275269,0.9043422937393188,0,True,A,1
+frag_0124,tts_dataset/fragments/frag_0124.wav,9.55,1126.1,206,0.09043493866920471,0.885846734046936,0,True,A,2
+frag_0153,tts_dataset/fragments/frag_0153.wav,9.58,1357.36,246,0.15757474303245544,0.9085609316825867,0,True,A,3
